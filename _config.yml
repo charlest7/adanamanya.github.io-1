@@ -33,8 +33,6 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-<<<<<<< HEAD
 gems: [jekyll-paginate, jekyll-feed]
 
->>>>>>> 733fbaaa9d273cb134e4af78f112c2a048901183
 # Build settings
